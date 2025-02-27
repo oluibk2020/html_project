@@ -1,0 +1,36 @@
+h1{
+    color: red; /* to add color to a text */
+    background-color: blue; /* to add background color to a text */
+    
+    text-align: center; /* to center a text */
+    text-transform: uppercase; /* to make a text all caps */
+}
+h2{
+    font-size: 30px; /* to increase a text size */
+}
+p{
+    font-weight: 700; /* to bolden a text */
+    line-height: 1.5; /* to increase a text line height */
+    letter-spacing: 1px;
+    
+}
+a{
+    text-decoration: none; /* to remove any default decoration/style from a text */ 
+}
+
+li{
+    list-style-type: none; /* to remove the default style of a list */
+}
+img{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    /* max-width: 300px;
+    max-height: 300px; */
+    border-radius: 10px; /* to add a radius to the side of the image - 100% makes it a complete circle*/
+}
+p{
+    background-image: url("https://cdn.britannica.com/98/5098-050-01DCBE43/Nigeria-map-features-locator.jpg");
+    background-size: cover;
+    background-position: center;
+}
